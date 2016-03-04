@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyShareSDK</string>
+    <string name="share">--我的主页--www.lyx.com</string>
+    <string name="sharetext">--主页--登录--</string>
+</resources>
